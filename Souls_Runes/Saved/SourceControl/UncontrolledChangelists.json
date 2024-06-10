@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Engine Games/Souls_Runes/soulsrunes/Souls_Runes/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Unreal Engine Games/Souls_Runes/soulsrunes/Souls_Runes/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Unreal Engine Games/Souls_Runes/Souls_Runes/Content/Rune_System/Runes.uasset",
 				"D:/Unreal Engine Games/Souls_Runes/Souls_Runes/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Unreal Engine Games/Souls_Runes/Souls_Runes/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Z2/3KL8FNBBIPF5UAH7ZZIWLW.uasset",
