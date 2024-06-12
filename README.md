@@ -6,5 +6,6 @@ Inspiration: Elden Ring souls system, where you achieve an amount of souls that 
 Video preview : https://vimeo.com/957115410
 
 Key used for respawing : "K"
+
 Made only with blueprints, easily readable with comments everywhere and specific variable and function names.
 Everything created or modified is found in /All/Game/Rune_System and /All/Game/ThirdPerson/Blueprints.
